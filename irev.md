@@ -4,18 +4,7 @@
 >
 > Материал — «живое» обучение оператора (без презентации, всё объясняется на экране). Цель — операционная работа, не теория.
 
-## Быстрые ссылки
-
-> Как заполнять: замени `https://example.com/...` на реальные ссылки вашей iRev/PP.
-
-- iRev (вход): [https://example.com/irev/login](https://example.com/irev/login)
-- Leads: [https://example.com/irev/leads](https://example.com/irev/leads)
-- Manual Injections: [https://example.com/irev/manual-injections](https://example.com/irev/manual-injections)
-- Drilldown Reports: [https://example.com/irev/reports/drilldown](https://example.com/irev/reports/drilldown)
-- Affiliate Payouts (PPA): [https://example.com/irev/affiliate-payouts](https://example.com/irev/affiliate-payouts)
-- Advertiser Revenue (LD/Revenue): [https://example.com/irev/advertiser-revenue](https://example.com/irev/advertiser-revenue)
-- Deal Updater: [https://example.com/irev/deal-updater](https://example.com/irev/deal-updater)
-- Rotation Control: [https://example.com/irev/rotation](https://example.com/irev/rotation)
+[https://example.com/irev/rotation](https://example.com/irev/rotation)
 - Partner Panel (PP): [https://example.com/pp](https://example.com/pp)
 
 ## Навигация по документу
